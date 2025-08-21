@@ -1,3 +1,12 @@
+DATABASE: local sqlite3
+
+FRONTEND folder: /frontend
+
+- integrated signup component
+
+BACKEND folder: /config
+
+BACKEND ENDPOINTS:
 SIGNUP
 POST : http://localhost:8000/signup/
 
